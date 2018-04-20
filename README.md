@@ -1,5 +1,9 @@
 # PWARemember
 
+References 
+
+https://medium.com/@nsmirnova/creating-pwa-with-angular-5-e36ea2378b5d
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
 ## Development server
